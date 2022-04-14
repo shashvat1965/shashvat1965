@@ -63,7 +63,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="mailto:shashvat1965@gmail.com">
  <img align="left" alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/shashvatsingh">
+<a href="https://www.linkedin.com/in/shashvatsingh/">
   <img align="left" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </br>
 </br>
