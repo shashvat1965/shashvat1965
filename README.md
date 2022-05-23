@@ -13,7 +13,7 @@
 
 ### - I'm an 18 years old student from India. Im currently doing my bachelors from Birla Institute of Technology and Science, Pilani campus.
 
-### - Learning :
+### - Learning or Planning to Learn :
 - ✨ Golang
 - ✨ Flutter (intermediate to advanced level)
 
@@ -58,7 +58,7 @@
 
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk 😉.
 
 <a href="mailto:shashvat1965@gmail.com">
  <img align="left" alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
