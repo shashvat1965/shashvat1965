@@ -19,8 +19,8 @@
 
 ### - Hobbies : 
 
-- ✨ Watching Anime
-- ✨ Reading Light Novels
+- ✨ Watching Anime and Shows
+- ✨ Reading Books
 - ✨ Badminton & Table Tennis
 
 </br>
