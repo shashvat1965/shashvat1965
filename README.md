@@ -1,7 +1,7 @@
 # Hi im Shashvat 
 
 <div align="center">
-<img hight="100" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img hight="100" width="500" alt="GIF" align="center" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </div>
 
 </br>
