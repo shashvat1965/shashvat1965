@@ -13,7 +13,7 @@
 ### - I'm an 18 years old student from India. Im currently doing my bachelors from Birla Institute of Technology and Science, Pilani campus.
 
 ### - Learning or Planning to Learn :
-- ✨ HTML/CSS/JS
+- ✨ Blender
 
 
 ### - Hobbies : 
