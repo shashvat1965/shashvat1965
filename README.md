@@ -1,5 +1,6 @@
-Hi im Shashvat 
+Hi im Shashvat </br>
 <a href = "">me</a>
+</br>
 <a href="mailto:shashvat1965@gmail.com">
  <img align="left" alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -10,7 +11,7 @@ Hi im Shashvat
 </br>
  </p>
  
-# Stats :
+stats: </br>
 
 
 
