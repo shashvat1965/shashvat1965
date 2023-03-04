@@ -1,16 +1,5 @@
-# Hi im Shashvat 
-
-<div align="center">
-<img hight="100" width="500" alt="GIF" align="center" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-</div>
-
-</br>
-</br>
-
-
-
-# Contact Me :
-
+Hi im Shashvat 
+<a href = "">me</a>
 <a href="mailto:shashvat1965@gmail.com">
  <img align="left" alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
