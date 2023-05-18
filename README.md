@@ -10,6 +10,12 @@ hi im shashvat
   </a>
   </p>
   
+  <p align="center">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashvat1965&show_icons=true&theme=dark" /> <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashvat1965&theme=dark" /> <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shashvat1965&layout=compact&theme=dark" />  
+</p>
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashvat1965&layout=compact&theme=radical" />
 </p>
