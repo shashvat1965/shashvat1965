@@ -6,7 +6,6 @@ hi im shashvat
 </br>
 <p align="center" >  
   <a href="https://github.com/shashvat1965"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=shashvat1965&&show_icons=true&theme=radical"/>
   </a>
   </p>
   
